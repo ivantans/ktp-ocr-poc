@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+# foto KTP berisi data pribadi — jangan pernah di-commit
+samples/
+*.jpg
+*.jpeg
+*.png
+results/
+*.zip
+test10/
+.DS_Store
+.ipynb_checkpoints/

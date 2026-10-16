@@ -1,0 +1,8 @@
+ktp-ocr-poc
+Copyright 2026 Ivan Tanjaya Sutrisna
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It runs, but does not include or redistribute, the PaddleOCR-VL-1.6 model by
+PaddlePaddle (https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6), which is
+licensed separately under the Apache License, Version 2.0.
