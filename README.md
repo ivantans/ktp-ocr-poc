@@ -52,3 +52,7 @@ Foto KTP adalah data pribadi (UU No. 27/2022 tentang Pelindungan Data Pribadi).
 
 Apache License 2.0 — lihat [LICENSE](LICENSE) dan [NOTICE](NOTICE). Model PaddleOCR-VL
 tidak disertakan di repo ini dan berlisensi terpisah (Apache-2.0).
+
+## Pembuat
+
+Dibuat oleh [Ivan Tanjaya Sutrisna](https://ivantans.id), backend developer di Bandung. Proyek lain dan kontak: [ivantans.id](https://ivantans.id).
